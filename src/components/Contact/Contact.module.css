@@ -1,0 +1,33 @@
+.contact {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  color: black;
+  border: 1px solid black;
+  border-radius: 6px;
+  padding: 10px;
+  width: 350px;
+  height: 100px;
+}
+
+.textWrapper {
+  display: block;
+  text-align: start;
+  margin-right: 30px;
+}
+
+.button {
+  border-color: black;
+  border-radius: 6px;
+  min-height: 40px;
+  min-width: 90px;
+  padding: 5px;
+  background-color: lightgray;
+}
+
+.button:hover {
+  background-color: gray;
+  border: black;
+}

@@ -1,0 +1,17 @@
+.searchBox {
+  display: block;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+}
+
+.text {
+  margin-bottom: 5px;
+}
+
+.input {
+  width: 450px;
+  height: 30px;
+  margin-bottom: 25px;
+  border-radius: 4px;
+  padding-left: 10px;
+}
